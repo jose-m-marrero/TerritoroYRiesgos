@@ -4,17 +4,26 @@ Herramientas de análisis espacial para cruce y transferencia de información en
 
 Todos han sido programados en Lenguaje C diseñados para trabajar en la plataforma GNU/Linux:
 
-Para el análisis Raster-Raster, disponemos del script Analiza_RR_usu.c
-Para el análisis Raster-Vector, disponemos del script Analiza_RV_user.c
-Para el análisis Vector-Raster, disponemos del script Analiza_VR.c
-Para el análisis Vector-Vector, disponemos del script Analiza_VV.c
-Para el análisis Via-Vector, disponemos del script Analiza_Vi-Vector.c
+1) Para el análisis Raster-Raster, disponemos del script Analiza_RR_usu.c 
 
-Para documentar de forma más completa el software, su propósito y aplicabilidad se ha creado el sitio web https://sites.google.com/views/TerritorioyRiesgos
-Para citar el software: Marrero, J.M y Yepes, H. (Fecha de acceso). Territorio y Riesgos. https://sites.google.com/views/TerritorioyRiesgos. En ESpañol.
+2) Para el análisis Raster-Vector, disponemos del script Analiza_RV_user.c
 
+3) Para el análisis Vector-Raster, disponemos del script Analiza_VR.c
+
+4) Para el análisis Vector-Vector, disponemos del script Analiza_VV.c
+
+5) Para el análisis Via-Vector, disponemos del script Analiza_Vi-Vector.c
+
+# Documentación
+
+Para documentar de forma más completa el software, su propósito y aplicabilidad se ha creado el sitio web https://sites.google.com/views/TerritorioyRiesgos.
 También está disponible en la misma web el reporte técnico donde se describe parte del software y su aplicabilidad dentro del Distrito Metropolitano de Quito:
-Para citar el software: H. Yepes y J.M. Marrero (2021). Sistema Exploratorio de Análisis Espacial del Distrito Metropolitano de Quito (SEAE-DMQ). Informe Técnico. Alcaldía de Quito, Ecuador. 
+
+Para citar el software: 
+
+Marrero, J.M y Yepes, H. (Fecha de acceso). Territorio y Riesgos. https://sites.google.com/views/TerritorioyRiesgos. En ESpañol.
+
+H. Yepes y J.M. Marrero (2021). Sistema Exploratorio de Análisis Espacial del Distrito Metropolitano de Quito (SEAE-DMQ). Informe Técnico. Alcaldía de Quito, Ecuador. 
 
 # Instalación
 
@@ -42,18 +51,13 @@ Verifica los datos de entrada y salida en el Sistema de Información Geográfica
 
 Recomendamos que abras los programas para que puedas leer/aprender lo que hacen. Tienen muchos comentarios añadidos que pueden servir de guía.
 
-DEPENDENCIAS
+# Dependencias
 
 Los programas en lenguaje C se han programado usando librerías estándar, por lo que no deberías tener problemas. Solo necesitas el compilador de C.
 
-VERSIÓN ACTUAL
+# Versión y actualizaciones
 
 Version 1.0-2021-05-19
 
 VERSIONES HISTÓRICAS
 
-Actualizaciones y mejoras realizadas
-
-Primera versión pública
-
-Version 1.0-2021-05-19
