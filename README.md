@@ -1,6 +1,6 @@
 DESCRIPCIÓN
 
-Herramientas de análisis espacial para cruce y transferencia de información entre capas geográficas junto a archivos de ejemplo
+Herramientas de análisis espacial para cruce y transferencia de información entre capas geográficas. También se proveen archivos de ejemplo para testear el software y entender la estructura de almacenamiento de datos.
 
 Todos han sido programados en Lenguaje C diseñados para trabajar en la plataforma GNU/Linux:
 
@@ -11,9 +11,10 @@ Para el análisis Vector-Vector, disponemos del script Analiza_VV.c
 Para el análisis Via-Vector, disponemos del script Analiza_Vi-Vector.c
 
 Para documentar de forma más completa el software, su propósito y aplicabilidad se ha creado el sitio web https://sites.google.com/views/TerritorioyRiesgos
+Para citar el software: Marrero, J.M y Yepes, H. (Fecha de acceso). Territorio y Riesgos. https://sites.google.com/views/TerritorioyRiesgos. En ESpañol.
 
 También está disponible en la misma web el reporte técnico donde se describe parte del software y su aplicabilidad dentro del Distrito Metropolitano de Quito:
-H. Yepes y J.M. Marrero (2021). Sistema Exploratorio de Análisis Espacial del Distrito Metropolitano de Quito (SEAE-DMQ). Informe Técnico . Alcaldía de Quito, Ecuador. 
+Para citar el software: H. Yepes y J.M. Marrero (2021). Sistema Exploratorio de Análisis Espacial del Distrito Metropolitano de Quito (SEAE-DMQ). Informe Técnico. Alcaldía de Quito, Ecuador. 
 
 INSTALACIÓN
 
