@@ -1,4 +1,4 @@
-DESCRIPCIÓN
+# Descripción
 
 Herramientas de análisis espacial para cruce y transferencia de información entre capas geográficas. También se proveen archivos de ejemplo para testear el software y entender la estructura de almacenamiento de datos.
 
@@ -16,7 +16,7 @@ Para citar el software: Marrero, J.M y Yepes, H. (Fecha de acceso). Territorio y
 También está disponible en la misma web el reporte técnico donde se describe parte del software y su aplicabilidad dentro del Distrito Metropolitano de Quito:
 Para citar el software: H. Yepes y J.M. Marrero (2021). Sistema Exploratorio de Análisis Espacial del Distrito Metropolitano de Quito (SEAE-DMQ). Informe Técnico. Alcaldía de Quito, Ecuador. 
 
-INSTALACIÓN
+# Instalación
 
 Descarga el archivo y descomprime en una carpeta. Comprueba que la ruta completa no tiene espacios o caracteres extraños
 
@@ -24,19 +24,19 @@ En la descompresión verás los archivos de ejemplo y el software con los archiv
 
 En la página web indicada, se dan instrucciones más amplias para poder utilizar los programas en otros sistemas operativos que no sean GNU/Linux.
 
-EJECUCIÓN
+# Ejecución
 
-Dentro del paquete software, hemos añadido un script de compilación (compila-C.sh) que permite realizar dicha acción en el resto de programas. Tienes que editarlo y adaptar las rutas. También tendrás que darle permisos de ejecución, para ello:
+Dentro del paquete software, hemos añadido un script de compilación (compila-C.sh) que permite realizar dicha acción en el resto de programas (crear los archivos de ejecución similares a los .exe). Tienes que editarlo y adaptar las rutas. También tendrás que darle permisos de ejecución, para ello:
 
 Desde terminal: chmod +x compila-C.sh
 
 O bien, desde el explorador de carpetas, botón derecho, propiedades, permisos, ejecutar como programa
 
-La línea de ejecución es: ./compila-C.sh
+Para ejecutarlo desde terminal tienes que escribir: ./compila-C.sh
 
-Para ejecutar los datos de ejemplo
+Una vez compilados los programas en lenguaje C, para ejecutar los datos de ejemplo:
 
-Deberás abrir una terminar en cada una de las carpetas disponibles y escribir el nombre del programa (el ejecutable) junto al archivo de configuración general. En cada uno existen diferentes opciones.
+Deberás abrir un terminal en cada una de las carpetas disponibles y escribir el nombre del programa (el ejecutable) junto al archivo de configuración general. En cada uno existen diferentes opciones.
 
 Verifica los datos de entrada y salida en el Sistema de Información Geográfica
 
