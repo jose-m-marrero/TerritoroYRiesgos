@@ -16,12 +16,12 @@ Todos han sido programados en Lenguaje C diseñados para trabajar en la platafor
 
 # Documentación
 
-Para documentar de forma más completa el software, su propósito y aplicabilidad se ha creado el sitio web https://sites.google.com/views/Territorio-y-Riesgos.
+Para documentar de forma más completa el software, su propósito y aplicabilidad se ha creado el sitio web https://sites.google.com/views/territorio-y-riesgos.
 También está disponible en la misma web el reporte técnico donde se describe parte del software y su aplicabilidad dentro del Distrito Metropolitano de Quito:
 
 Para citar el software: 
 
-Marrero, J.M y Yepes, H. (Fecha de acceso). Territorio y Riesgos. https://sites.google.com/views/Territorio-y-Riesgos. En ESpañol.
+Marrero, J.M y Yepes, H. (Fecha de acceso). Territorio y Riesgos. https://sites.google.com/views/territorio-y-riesgos. En ESpañol.
 
 H. Yepes y J.M. Marrero (2021). Sistema Exploratorio de Análisis Espacial del Distrito Metropolitano de Quito (SEAE-DMQ). Informe Técnico. Alcaldía de Quito, Ecuador. 
 
